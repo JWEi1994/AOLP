@@ -45,5 +45,3 @@
 |    Admin      | admin@aolp.com       |    secret     |
 |    Instructor | instructor@aolp.com  |    secret     |
 |    Student    | student@aolp.com     |    secret     |
-
-## Contact Me
